@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/notre-histoire-damour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Notre Histoire D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/notre-histoire-damour/) |
+| **Get License** | [Commercial Licensing for Notre Histoire D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/notre-histoire-damour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la ville lumière, baby, tu brilles si fort
+> Ton parfum sur ma veste vaut bien plus que de l'or
+> Cruising down the avenue, le vent sur ta peau
+> Notre histoire d'amour commence, on monte le niveau
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
